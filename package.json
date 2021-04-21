@@ -1,0 +1,19 @@
+{
+  "name": "@lijixuan/getargv",
+  "version": "1.0.0",
+  "description": "命令行参数解析",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidaxuan/getargv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lidaxuan/getargv/issues"
+  },
+  "homepage": "https://github.com/lidaxuan/getargv#readme"
+}
